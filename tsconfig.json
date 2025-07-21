@@ -21,7 +21,12 @@
         "noUnusedParameters": true,
         "noFallthroughCasesInSwitch": true
     },
-    "include": [
-        "src"
-    ]
+    
+   "include": [
+    "test",
+    "config",
+    "src",
+    "pageobjects"
+  ]
+
 }

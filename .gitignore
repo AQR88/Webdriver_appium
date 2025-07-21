@@ -61,9 +61,15 @@ typings/
 .next
 
 # auto generated files from reporters such as Allure or Junit
-reporters/*
+reporters/
+allure-results/
+allure-report/
+
 
 apps
 ChromeDriver.txt
 
 out
+
+
+
