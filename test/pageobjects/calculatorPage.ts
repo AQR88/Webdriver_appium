@@ -13,12 +13,12 @@ import { browser, $, $$ } from "@wdio/globals";
 //   private btn7 = "~7";
 //   private btn8 = "~8";
 //   private btn9 = "~com.google.android.calculator:id/digit_9";
-//   private btnPlus = "~plus";
-//   private btnMinus = "~minus";
-//   private btnMultiply = "~multiply";
-//   private btnDivide = "~divide";
-//   private btnEqual = "~equals";
-//   private btnClear = "~delete";
+//   private btnPlus = "~додати";
+//   private btnMinus = "~відняти";
+//   private btnMultiply = "~помножити";
+//   private btnDivide = "~поділити";
+//   private btnEqual = "~дорівнює";
+//   private btnClear = "~видалити";
 //   private resultField = "id:com.google.android.calculator:id/result_final";
 
 //   private async click(text: string): Promise<void> {
