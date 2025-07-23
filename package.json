@@ -26,8 +26,8 @@
     "test:android": "wdio run ./config/wdio.conf.android.ts",
     "test:ios": "wdio run ./config/wdio.conf.ios.ts",
     "test:ios:bs": "wdio run ./config/wdio.conf.ios.bs.ts",
-    "allure": "allure open allure-report",
-    "allure:generate": "allure generate allure-results --clean -o allure-report"
+    "allure": "allure open ./reporters/allure-report",
+    "allure:generate": "allure generate ./reporters/allure-results --clean -o ./reporters/allure-report"
   },
   "dependencies": {
     "@wdio/spec-reporter": "^8.15.0",
