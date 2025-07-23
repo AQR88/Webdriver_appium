@@ -82,18 +82,12 @@ class CalculatorPage {
   private btn8 = "id:com.google.android.calculator:id/digit_8";
   private btn9 = "id:com.google.android.calculator:id/digit_9";
 
-  // private btnPlus = "~plus";
-  // private btnMinus = "~minus";
-  // private btnMultiply = "~multiply";
-  // private btnDivide = "~divide";
-  // private btnEqual = "~equals";
-  // private btnClear = "~clear";
-  private btnPlus = "accessibility id:plus";
-  private btnMinus = "accessibility id:minus";
-  private btnMultiply = "accessibility id:multiply";
-  private btnDivide = "accessibility id:divide";
-  private btnEqual = "accessibility id:equals";
-  private btnClear = "id:com.google.android.calculator:id/del";
+  private btnPlus = "~plus";
+  private btnMinus = "~minus";
+  private btnMultiply = "~multiply";
+  private btnDivide = "~divide";
+  private btnEqual = "~equals";
+  private btnClear = "~clear";
 
   private resultField = "id:com.google.android.calculator:id/result_final";
 
